@@ -5,7 +5,7 @@ but not follow the links to external sites other than  this domain.
 
 input:
 Any valid URL.
-Example: http://www.novelglow.com
+Example: http://www.novelglow.com/
 
 Output:
 JSON structure containing all the URLs in the given site and images within corresponding URLs.
