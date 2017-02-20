@@ -3,6 +3,14 @@ This is the webcrawler.
 Given a starting URL –say example.com -it will visit all pages within the domain and collects all images,
 but not follow the links to external sites other than  this domain.
 
+Installation details:
+Create a empty dynamic web application in your eclipse IDE.
+Copy the contents from src folder of downloaded project to newly created project into the corresponding src folder.
+Copy the libraries from lib folder of downloaded project to newly created project into the corresponding lib folder.
+Refer the libraries in "Java Build Path" of the newly created project.
+Give any URL as an argument in "Run Configuration".
+Run the java file as "Run As" --> "Java Application".
+
 input:
 Any valid URL.
 Example: http://www.novelglow.com/
